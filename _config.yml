@@ -1,0 +1,28 @@
+name: lewi
+favicon: null
+layout_spectrum: 0.52620634669438
+typography_spectrum: 0.2792812087573111
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#71A7FE'
+    - '#399AE7'
+    - '#3B407C'
+    - '#547AB1'
+    - '#CEAFC0'
+  brandStrength: 0.1808636502828449
+  lightness: 0.9770035699475557
+  saturation: 0.5840527883265167
+  rhythmicContrast: 0.5341849487740546
+purpose: []
