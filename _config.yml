@@ -2,6 +2,7 @@ name: lewi
 favicon: null
 layout_spectrum: 0.74254
 typography_spectrum: 0.33358
+title: Studio Black
 cta:
   domain: null
   bucket: null
